@@ -1,3 +1,3 @@
 # Github AI
-Website: github-ai.lovable.app
-Alt Github: github.com/itzsrgxsoulz/character.ai
+Website: https://github-ai.lovable.app
+Alt Github: https://github.com/itzsrgxsoulz/character.ai
